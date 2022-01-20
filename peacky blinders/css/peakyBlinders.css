@@ -1,0 +1,39 @@
+html {
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+}
+
+.navbar{
+    position: fixed; 
+    top: 0;
+    width: 100vw;
+    z-index: 999;
+}
+
+.jumbotron{
+    width: 100vw;
+}
+
+.card-deck{
+    margin-top: 2vh;
+    margin-left: 1vw;
+}
+
+.page-footer{
+    margin-top: 1%;
+    background-color:  grey;
+}
+
+.card-title{
+    text-align: center;
+    font-weight: bold;
+}
+
+.card-img-top{
+    height: 35vh;
+}
+
+.a{
+    color: white;
+}
+
